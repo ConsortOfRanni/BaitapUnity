@@ -1,3 +1,6 @@
-.idea/
-*.sln
-global.json
+bin/
+obj/
+Properties/
+*.csproj
+Worker.cs
+appsettings*.json

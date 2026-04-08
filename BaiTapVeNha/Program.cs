@@ -1,3 +1,5 @@
+   // Chọn bài tập
+ 
     Console.WriteLine("Chon bai tap");
     int n =Convert.ToInt32( Console.ReadLine());
     

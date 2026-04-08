@@ -1,5 +1,8 @@
     Console.WriteLine("Chon bai tap");
     int n =Convert.ToInt32( Console.ReadLine());
+    
+    // Bài 1:
+    
     if (n == 1)
     {
         Console.WriteLine("Nhap diem cac mon hoc: ");
@@ -39,6 +42,8 @@
         }
     }
 
+    // Bài 2:
+    
     else if (n == 2)
     {
         Console.WriteLine("Nhap so tien USD can chuyen doi: ");
@@ -59,6 +64,8 @@
         }
     }
 
+    // Bài 3:
+    
    else if (n == 3)
     {
         Console.WriteLine("Nhap lan luot thong tin 2 hinh chu nhat: ");

@@ -46,3 +46,4 @@ C:\Users\User\RiderProjects\BaiTapVeNha\BaiTapVeNha\obj\Debug\net9.0\refint\BaiT
 C:\Users\User\RiderProjects\BaiTapVeNha\BaiTapVeNha\obj\Debug\net9.0\BaiTapVeNha.pdb
 C:\Users\User\RiderProjects\BaiTapVeNha\BaiTapVeNha\obj\Debug\net9.0\BaiTapVeNha.genruntimeconfig.cache
 C:\Users\User\RiderProjects\BaiTapVeNha\BaiTapVeNha\obj\Debug\net9.0\ref\BaiTapVeNha.dll
+C:\Users\User\RiderProjects\BaiTapVeNha\BaiTapVeNha\obj\Debug\net9.0\BaiTapVeNha.sourcelink.json

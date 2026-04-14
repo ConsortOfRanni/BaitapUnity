@@ -1,5 +1,9 @@
     Console.WriteLine("Chon bai tap: ");
+    
     int indexNumber = int.Parse(Console.ReadLine());
+    
+    //Bài 1:
+    
     if (indexNumber == 1)
     {
         Console.WriteLine("Bai 1: ");
@@ -11,6 +15,9 @@
         }
         else Console.WriteLine("Day la so le!");
     }
+    
+    //Bài 2:
+    
     else if (indexNumber == 2)
     {
         Console.WriteLine("Bai 2: ");
@@ -28,6 +35,9 @@
         }
         else Console.WriteLine("Hai so bang nhau!");
     }
+    
+    //Bòi 3: 
+    
     else if (indexNumber == 3)
     {
         Console.WriteLine("Bai 3: ");
@@ -43,6 +53,9 @@
         }
         else Console.WriteLine("Day la so am!");
     }
+    
+    //Bài 4:
+    
     else if (indexNumber == 4)
     {
         Console.WriteLine("Bai 4: ");
@@ -61,6 +74,9 @@
         }
         else  Console.WriteLine("Tuoi khong hop le!");
     }
+    
+    //Bài 5:
+    
     else if (indexNumber == 5)
     {
         Console.WriteLine("Bai 5: ");
@@ -87,6 +103,9 @@
         }
         else Console.WriteLine("Diem so khong hop le! ");
     }
+    
+    //Bài 6:
+    
     else if (indexNumber == 6)
     {
         Console.WriteLine("Bai 6: ");
@@ -111,6 +130,8 @@
             Console.WriteLine("So lieu khong hop le!");
         }
     }
+    //Bài 7:
+    
     else if (indexNumber == 7)
     {
         Console.WriteLine("Bai 7: ");
@@ -126,6 +147,9 @@
         }
         else Console.WriteLine("So lieu khong hop le!");
     }
+    
+    //Bài 8: 
+    
     else if (indexNumber == 8)
     {
         Console.WriteLine("Bai 8: ");
@@ -159,6 +183,9 @@
                 break;
         }
     }
+    
+    //Bài 9:
+    
     else if (indexNumber == 9)
     {
         Console.WriteLine("Bai 9: ");
@@ -182,6 +209,9 @@
                 break;
         }
     }
+    
+    //Bài 10:
+    
     else if (indexNumber == 10)
     {
         Console.WriteLine("Bai 10: ");
@@ -203,6 +233,9 @@
             Console.WriteLine("Phuong trinh co nghiem la: x= "+ -b/a );
         }
     }
+    
+    //Bài 11: 
+    
     else if (indexNumber == 11)
     {
         Console.WriteLine("Bai 11: ");
@@ -234,6 +267,7 @@
         }
         else {Console.WriteLine("So lieu khong hop le!");}
     }
+    
     else
     {
         Console.WriteLine("Khong co bai tap nay!");

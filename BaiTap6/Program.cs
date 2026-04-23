@@ -116,26 +116,26 @@ else if (index == 10)
     Console.WriteLine("Tam giac can: ");
     Console.WriteLine("Nhap h: ");
     int h = int.Parse(Console.ReadLine());
-    int leftblank = (h*2-1)/2;
-    int rightblank = (h*2-1)/2;
+    int blank = (h*2-1)/2;
+    
     
     for (int i = 1; i <= h; i++)
     {
-        for (int j = 0; j < leftblank; j++)
+        for (int j = 0; j < blank; j++)
         {
             Console.Write(" ");
         }
 
-        for (int k = 0; k < (h*2-1-rightblank-leftblank); k++)
+        for (int k = 0; k < (h*2-1-2*blank); k++)
         {
             Console.Write("*");
         }
-        for (int j = 0; j < rightblank; j++)
+        for (int j = 0; j < blank; j++)
         {
             Console.Write(" ");
         }
-        leftblank--;
-        rightblank--;
+      
+        blank--;
         Console.WriteLine();
     }
 }

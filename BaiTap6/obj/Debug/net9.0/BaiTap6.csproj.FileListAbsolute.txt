@@ -46,3 +46,4 @@ C:\Users\User\RiderProjects\BaiTap6\BaiTap6\obj\Debug\net9.0\refint\BaiTap6.dll
 C:\Users\User\RiderProjects\BaiTap6\BaiTap6\obj\Debug\net9.0\BaiTap6.pdb
 C:\Users\User\RiderProjects\BaiTap6\BaiTap6\obj\Debug\net9.0\BaiTap6.genruntimeconfig.cache
 C:\Users\User\RiderProjects\BaiTap6\BaiTap6\obj\Debug\net9.0\ref\BaiTap6.dll
+C:\Users\User\RiderProjects\BaiTap6\BaiTap6\obj\Debug\net9.0\BaiTap6.sourcelink.json

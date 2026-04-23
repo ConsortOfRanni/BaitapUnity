@@ -139,3 +139,4 @@ else if (index == 10)
         Console.WriteLine();
     }
 }
+else Console.WriteLine("Khong co bai tap nay ");
